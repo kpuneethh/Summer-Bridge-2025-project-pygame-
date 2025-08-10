@@ -4,7 +4,7 @@ import random
 
 class Boss:
     def __init__(self):
-        self.image = pygame.image.load("cleon.png").convert_alpha()
+        self.image = pygame.image.load("monster.png").convert_alpha()
         self.image = pygame.transform.scale(self.image, (200, 200))
         self.rect = self.image.get_rect(center = (WORLD_WIDTH - 200, 400))
 
