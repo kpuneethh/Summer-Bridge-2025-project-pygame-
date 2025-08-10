@@ -7,6 +7,12 @@ Created as part of the **Summer Bridge 2025** program.
 - Python 3.8 or higher  
 - Pygame library
 
+## How to Run
+  1. ```git clone https://github.com/kpuneethh/Summer-Bridge-2025-project-pygame-.git```
+  2. ```cd Summer-Bridge-2025-project-pygame-```
+  3. ```python main.py```
+
+
 ## Game Preview
 
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/f5ac53ca-9f96-4e27-b69d-e44cec08dd90" />
