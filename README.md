@@ -9,7 +9,7 @@ Created as part of the **Summer Bridge 2025** program.
 
 ## How to Run
   1. ```git clone https://github.com/kpuneethh/Summer-Bridge-2025-project-pygame-.git```
-  2. Find the path to the 'summerbridge25'folder and open it
+  2. Find the path to the 'summerbridge25' folder and open it.
   3. ```python main.py```
 
 
